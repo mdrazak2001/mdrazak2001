@@ -4,12 +4,13 @@ I love problem solving!
 
 🔭 I’m currently working on rewriting the core of [pgmpy](https://github.com/pgmpy/pgmpy/) in Rust for improved performance and safety — check it out at [pgmpy/causalgraphs](https://github.com/pgmpy/causalgraphs)!
 
+
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrazak2001&show_icons=true&theme=dark&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrazak2001&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
 **mdrazak2001/mdrazak2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
