@@ -2,7 +2,9 @@
 
 I love problem solving!
 
-🔭 I’m currently working on rewriting the core of [pgmpy](https://github.com/pgmpy/pgmpy/) in Rust for improved performance and safety — check it out at [pgmpy/causalgraphs](https://github.com/pgmpy/causalgraphs)!
+🔭 I’m currently working on 
+- [shiftgate](https://github.com/mdrazak2001/shiftgate) : ⚡Intelligent routing layer that auto-selects the right LoRA adapter for each task in your local LLM agent loop. 
+- rewriting the core of [pgmpy](https://github.com/pgmpy/pgmpy/) in Rust for improved performance and safety — check it out at [pgmpy/causalgraphs](https://github.com/pgmpy/causalgraphs)!
 
 
 <!--
